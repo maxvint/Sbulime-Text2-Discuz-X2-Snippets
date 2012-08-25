@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<!--{loop \$${1:list} ${2:\$value}}-->
+	
+<!--{/loop}-->
+	]]></content>
+	<tabTrigger>loop</tabTrigger>
+	<scope>text.html</scope>
+	<description>DZ:: loop</description>
+</snippet>

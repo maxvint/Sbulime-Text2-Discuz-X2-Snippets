@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<!--{if \$${1:list}}-->
+	
+<!--{else}-->
+	
+<!--{/if}-->
+]]></content>
+	<tabTrigger>ifelse</tabTrigger>
+	<scope>text.html</scope>
+	<description>DZ:: if-else</description>
+</snippet>

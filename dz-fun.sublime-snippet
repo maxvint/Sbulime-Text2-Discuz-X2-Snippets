@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+function ${1:name}(){
+	
+}
+	]]></content>
+	<tabTrigger>fun</tabTrigger>
+	<scope>source.php</scope>
+	<description>DZ:: fun</description>
+</snippet>
